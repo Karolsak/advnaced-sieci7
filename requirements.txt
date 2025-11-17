@@ -1,0 +1,16 @@
+# Requirements for Advanced Parallel Transformer Lab
+
+# Core numerical libraries
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# GUI (tkinter comes with Python on most systems)
+# On Ubuntu/Debian: sudo apt-get install python3-tk
+# On Fedora: sudo dnf install python3-tkinter
+# On macOS: included with Python
+
+# Optional: For better performance
+# numba>=0.53.0
